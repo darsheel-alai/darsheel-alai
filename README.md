@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjB4bXNnZW55c3c0dXg4YWk1aW56dWFhNDNwb3d3bjE3eWR2ZDNpcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k3L5Y62lE2g9xI2gUa/giphy.gif" alt="Animated background with a glowing grid" width="100%">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWZqZ3JmNTZwM3Z4Y3A3MjM5cnh3eTByZTV1YXFzM2J2eHZva3ljcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/73WrT6n6yoVfq/giphy.gif" width="100%">
   <br>
   <br>
   <h1 style="color: #9B59B6;">Hey there, I'm Darsheel Alai 👋</h1>
